@@ -1,0 +1,15 @@
+{
+  "name": "npm-tailwind-config",
+  "version": "1.0.0",
+  "description": "This is custom config for Tailwind to reuse between projects with same brand design. Created for testing purpose.",
+  "main": "index.js",
+  "keywords": [
+    "tailwind",
+    "custom config"
+  ],
+  "author": {
+    "name": "Jakub Zomerfeld",
+    "url": "https://github.com/devzom"
+  },
+  "license": "MIT"
+}
