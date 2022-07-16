@@ -1,19 +1,21 @@
 # W.I.P -  Tailwind custom config
 
+**Not ready yet.**
+
 This is plugin with custom preset for Tailwind to share between projects.
 
-**Not ready yet.**
+## [x] Created for personal use.
 
 ## Usage
 
-Use package manager NPM/Yarn/PNPM to install NPM package and add it to Tailwind:
+Use package manager NPM/Yarn/PNPM to install NPM package and add it to **tailwind.config.js** file:
 
-```
-### tailwind.config.js
+```js
+/* tailwind.config.js file*/
 
 module.exports = {
     presets: [
-    require('@custom-tailwind-config')
+      require('@custom-tailwind-config');
   ],
   ...
 }

@@ -11,6 +11,8 @@
     "name": "Jakub Zomerfeld",
     "url": "https://github.com/devzom"
   },
-  "repository": {"url": "https://github.com/devzom/tailwind-custom-config"},
+  "repository": {"url": "https://github.com/devzom/tailwind-custom-config", "type": "github"},
+  "bugs": {"url": "https://github.com/devzom/tailwind-custom-config"},
+  "publishConfig": {"registry": "https://www.npmjs.com/package/npm-tailwind-config"},
   "license": "MIT"
 }
