@@ -11,5 +11,6 @@
     "name": "Jakub Zomerfeld",
     "url": "https://github.com/devzom"
   },
+  "repository": {"url": "https://github.com/devzom/tailwind-custom-config"},
   "license": "MIT"
 }
