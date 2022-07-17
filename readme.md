@@ -15,7 +15,7 @@ Use package manager NPM/Yarn/PNPM to install NPM package and add it to **tailwin
 
 module.exports = {
     presets: [
-      require('@custom-tailwind-config');
+      require('@devzom/custom-tailwind-config');
   ],
   ...
 }
