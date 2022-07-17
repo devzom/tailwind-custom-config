@@ -1,6 +1,6 @@
 {
   "name": "@devzom/custom-tailwind-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This is custom config for Tailwind to reuse between projects with same brand design. Created for testing purpose.",
   "main": "index.js",
   "keywords": [
@@ -12,6 +12,7 @@
     "url": "https://github.com/devzom"
   },
   "repository": {"url": "https://github.com/devzom/tailwind-custom-config", "type": "github"},
+  "publishConfig": {"registry": "https://registry.npmjs.org"},
   "bugs": {"url": "https://github.com/devzom/tailwind-custom-config"},
   "license": "MIT"
 }
